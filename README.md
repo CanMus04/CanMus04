@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CanMus04
+- 👋 Hi, I’m Can
 - 👀 I’m interested in expanding my knowledge in the field of programming.
 - 🌱 I’m currently learning Visual Studio Code and Python.
 - 📫 How to reach me : mustafacan2004.jbs@gmail.com   
